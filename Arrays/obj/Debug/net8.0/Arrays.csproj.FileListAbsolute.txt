@@ -1,0 +1,14 @@
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\kaisa\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll

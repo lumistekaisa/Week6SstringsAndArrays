@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaisa\\source\\repos\\Week6StringsAndArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D2F682-F3EC-4E89-A602-C6ED5CF54072}|Arrays\\Arrays.csproj|c:\\users\\kaisa\\source\\repos\\week6stringsandarrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D2F682-F3EC-4E89-A602-C6ED5CF54072}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C672267D-2F21-4D50-8D30-5C19A87A6CCE}|Week6StringsAndArrays\\Week6StringsAndArrays.csproj|c:\\users\\kaisa\\source\\repos\\week6stringsandarrays\\week6stringsandarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C672267D-2F21-4D50-8D30-5C19A87A6CCE}|Week6StringsAndArrays\\Week6StringsAndArrays.csproj|solutionrelative:week6stringsandarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaisa\\source\\repos\\Week6StringsAndArrays\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\kaisa\\source\\repos\\Week6StringsAndArrays\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:09:50.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaisa\\source\\repos\\Week6StringsAndArrays\\Week6StringsAndArrays\\Program.cs",
+              "RelativeDocumentMoniker": "Week6StringsAndArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\kaisa\\source\\repos\\Week6StringsAndArrays\\Week6StringsAndArrays\\Program.cs",
+              "RelativeToolTip": "Week6StringsAndArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:43:38.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
